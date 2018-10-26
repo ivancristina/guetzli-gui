@@ -27,8 +27,8 @@ class PreferencesWindowController: NSWindowController, NSTextFieldDelegate {
     }
   }
 
-  override func controlTextDidChange(_ obj: Notification) {
-    if binPath.stringValue.characters.count > 0 {
+  func controlTextDidChange(_ obj: Notification) {
+    if binPath.stringValue.count > 0 {
       let (result, error) = Command.exec("ls", binPath.stringValue)
 
       let resultArray = result.components(separatedBy: .newlines)

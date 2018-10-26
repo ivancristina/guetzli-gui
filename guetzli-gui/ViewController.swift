@@ -38,7 +38,7 @@ class ViewController: NSViewController {
     let openPanel = NSOpenPanel()
 
     openPanel.begin { (result) in
-      if (result == NSFileHandlingPanelOKButton) {
+      if (result.rawValue == NSFileHandlingPanelOKButton) {
         self.inFile = openPanel.urls[0]
         self.inFileUrlField.stringValue = openPanel.urls[0].path
       }
@@ -54,7 +54,7 @@ class ViewController: NSViewController {
     }
 
     savePanel.begin { (result) in
-      if (result == NSFileHandlingPanelOKButton) {
+      if (result.rawValue == NSFileHandlingPanelOKButton) {
         guard let url = savePanel.url else {
           return
         }

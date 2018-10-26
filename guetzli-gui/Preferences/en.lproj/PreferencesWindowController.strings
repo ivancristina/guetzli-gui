@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Preferences";
+
+/* Class = "NSButtonCell"; title = "Find"; ObjectID = "HAP-ah-r9A"; */
+"HAP-ah-r9A.title" = "Find";
+
+/* Class = "NSTextFieldCell"; placeholderString = "/usr/local/bin/guetzli"; ObjectID = "Thg-F4-AvA"; */
+"Thg-F4-AvA.placeholderString" = "/usr/local/bin/guetzli";
+
+/* Class = "NSTextFieldCell"; title = "Oops! That's not a valid path."; ObjectID = "qNW-zv-tla"; */
+"qNW-zv-tla.title" = "Oops! That's not a valid path.";
+
+/* Class = "NSTextFieldCell"; title = "Guetzli path:"; ObjectID = "t9H-qS-vNR"; */
+"t9H-qS-vNR.title" = "Guetzli path:";

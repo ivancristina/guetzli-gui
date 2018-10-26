@@ -1,0 +1,63 @@
+
+/* Class = "NSMenuItem"; title = "guetzli-gui"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "guetzli-gui";
+
+/* Class = "NSButtonCell"; title = "Compress"; ObjectID = "30f-j6-28L"; */
+"30f-j6-28L.title" = "Compress";
+
+/* Class = "NSMenuItem"; title = "Quit guetzli-gui"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit guetzli-gui";
+
+/* Class = "NSMenuItem"; title = "About guetzli-gui"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About guetzli-gui";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSButtonCell"; title = "Open File"; ObjectID = "Adg-CP-4Uo"; */
+"Adg-CP-4Uo.title" = "Open File";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "guetzli-gui Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "guetzli-gui Help";
+
+/* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "Fly-4l-FBy"; */
+"Fly-4l-FBy.title" = "Quality";
+
+/* Class = "NSWindow"; title = "Guetzli GUI"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Guetzli GUI";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide guetzli-gui"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide guetzli-gui";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSButtonCell"; title = "Open File"; ObjectID = "Xb5-X1-IYa"; */
+"Xb5-X1-IYa.title" = "Open File";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSTextFieldCell"; title = "Input File"; ObjectID = "jes-ML-Cqw"; */
+"jes-ML-Cqw.title" = "Input File";
+
+/* Class = "NSTextFieldCell"; title = "Output File"; ObjectID = "nEK-jC-3WX"; */
+"nEK-jC-3WX.title" = "Output File";
+
+/* Class = "NSMenu"; title = "guetzli-gui"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "guetzli-gui";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
