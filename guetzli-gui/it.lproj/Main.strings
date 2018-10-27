@@ -29,6 +29,9 @@
 /* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "Fly-4l-FBy"; */
 "Fly-4l-FBy.title" = "Qualità";
 
+/* Class = "NSTextFieldCell"; title = "Warning"; ObjectID = "HKH-k2-pRp"; */
+"HKH-k2-pRp.title" = "Un valore inferiore a 84 può causare artefatti!";
+
 /* Class = "NSWindow"; title = "Guetzli GUI"; ObjectID = "IQv-IB-iLA"; */
 "IQv-IB-iLA.title" = "Guetzli GUI";
 
