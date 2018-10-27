@@ -25,5 +25,9 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     preferencesWindow = PreferencesWindowController(windowNibName: "PreferencesWindowController")
     preferencesWindow.showWindow(nil)
   }
+    
+  func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool {
+    return true
+  }
 
 }
