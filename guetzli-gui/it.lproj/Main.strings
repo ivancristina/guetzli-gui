@@ -50,6 +50,9 @@
 /* Class = "NSButtonCell"; title = "Open File"; ObjectID = "Xb5-X1-IYa"; */
 "Xb5-X1-IYa.title" = "Apri File";
 
+/* Class = "NSTabViewItem"; label = "Folder"; ObjectID = "fI4-fJ-YxN"; */
+"fI4-fJ-YxN.label" = "Cartella";
+
 /* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
 "hz9-B4-Xy5.title" = "Servizi";
 
@@ -64,3 +67,6 @@
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
 "wpr-3q-Mcd.title" = "Aiuto";
+
+/* Class = "NSTabViewItem"; label = "File"; ObjectID = "xmZ-0w-bLd"; */
+"xmZ-0w-bLd.label" = "File";
