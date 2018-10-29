@@ -51,12 +51,12 @@
 		8D0483F91E7C8644009CF777 /* Command.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Command.swift; sourceTree = "<group>"; };
 		8D57F3791E7CAC8300DDCD83 /* Credits.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = Credits.rtf; path = "Supporting Files/Credits.rtf"; sourceTree = "<group>"; };
 		8D57F3861E7CAF5800DDCD83 /* PreferencesWindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PreferencesWindowController.swift; path = Preferences/PreferencesWindowController.swift; sourceTree = "<group>"; };
-		9A20FE4A21851027006AE0B9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		9A24BEBF2184B9FF00DBB995 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
 		9A27E3B4218374870056BF73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/PreferencesWindowController.xib; sourceTree = "<group>"; };
 		9A27E3B72183748A0056BF73 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/PreferencesWindowController.strings; sourceTree = "<group>"; };
 		9A27E3C021837A230056BF73 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/PreferencesWindowController.strings; sourceTree = "<group>"; };
 		9A27E3C421837BBB0056BF73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9AC60D76218608E3006D4DFE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -369,7 +369,7 @@
 			children = (
 				9A27E3C421837BBB0056BF73 /* Base */,
 				9A24BEBF2184B9FF00DBB995 /* it */,
-				9A20FE4A21851027006AE0B9 /* en */,
+				9AC60D76218608E3006D4DFE /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

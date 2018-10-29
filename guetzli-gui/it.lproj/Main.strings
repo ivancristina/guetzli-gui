@@ -5,6 +5,9 @@
 /* Class = "NSButtonCell"; title = "Compress"; ObjectID = "30f-j6-28L"; */
 "30f-j6-28L.title" = "Comprimi";
 
+/* Class = "NSTextFieldCell"; title = "For recursively quality must be 84 or higher!"; ObjectID = "4Rq-Za-2DD"; */
+"4Rq-Za-2DD.title" = "In modalità recursively la qualità minima è 84!";
+
 /* Class = "NSMenuItem"; title = "Quit guetzli-gui"; ObjectID = "4sb-4s-VLi"; */
 "4sb-4s-VLi.title" = "Esci da guetzli-gui";
 
@@ -29,6 +32,9 @@
 /* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "Fly-4l-FBy"; */
 "Fly-4l-FBy.title" = "Qualità";
 
+/* Class = "NSTextFieldCell"; title = "Input Folder"; ObjectID = "GSF-p2-ugK"; */
+"GSF-p2-ugK.title" = "Cartella di Input";
+
 /* Class = "NSTextFieldCell"; title = "Warning"; ObjectID = "HKH-k2-pRp"; */
 "HKH-k2-pRp.title" = "Un valore inferiore a 84 può causare artefatti!";
 
@@ -50,6 +56,12 @@
 /* Class = "NSButtonCell"; title = "Open File"; ObjectID = "Xb5-X1-IYa"; */
 "Xb5-X1-IYa.title" = "Apri File";
 
+/* Class = "NSButtonCell"; title = "Open Folder"; ObjectID = "abn-bR-KZI"; */
+"abn-bR-KZI.title" = "Apri Cartella";
+
+/* Class = "NSTextFieldCell"; title = "Quality"; ObjectID = "dTv-06-A2d"; */
+"dTv-06-A2d.title" = "Qualità";
+
 /* Class = "NSTabViewItem"; label = "Folder"; ObjectID = "fI4-fJ-YxN"; */
 "fI4-fJ-YxN.label" = "Cartella";
 
@@ -59,8 +71,14 @@
 /* Class = "NSTextFieldCell"; title = "Input File"; ObjectID = "jes-ML-Cqw"; */
 "jes-ML-Cqw.title" = "File di Input";
 
+/* Class = "NSTextFieldCell"; title = "Did you install guetzli-recursively? If not"; ObjectID = "l8f-ZZ-cGU"; */
+"l8f-ZZ-cGU.title" = "Hai installato guetzli-recursively? Se no";
+
 /* Class = "NSTextFieldCell"; title = "Output File"; ObjectID = "nEK-jC-3WX"; */
 "nEK-jC-3WX.title" = "File di Output";
+
+/* Class = "NSButtonCell"; title = "Compress"; ObjectID = "puR-Kp-ZOF"; */
+"puR-Kp-ZOF.title" = "Comprimi";
 
 /* Class = "NSMenu"; title = "guetzli-gui"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "guetzli-gui";
@@ -70,3 +88,6 @@
 
 /* Class = "NSTabViewItem"; label = "File"; ObjectID = "xmZ-0w-bLd"; */
 "xmZ-0w-bLd.label" = "File";
+
+/* Class = "NSButtonCell"; title = "Click here"; ObjectID = "yTO-as-UiR"; */
+"yTO-as-UiR.title" = "Clicca qui";

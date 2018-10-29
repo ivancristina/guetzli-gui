@@ -2,7 +2,8 @@
 
 A super simple GUI for Google's JPEG encoder [guetzli](https://github.com/google/guetzli)
 
-![Gui Preview](guetzli-gui.png)
+![Gui File](guetzli-gui-file.png)
+![Gui Folder](guetzli-gui-folder.png)
 
 To install, first install the guetzli command line tool by following [the installation instructions](https://github.com/google/guetzli#on-macos). Then, either [download the pre-built application](https://github.com/ivancristina/guetzli-gui/releases), or build from source by using Xcode.
 
@@ -16,8 +17,11 @@ Disclaimer: this project is not associated with Google in any way.
 
 MIT License
 
-Copyright (c) 2017 Matthew Davies
-Copyright (c) 2018 Ivan Cristina
+Copyright (c) 2017 [guetzli-gui](https://github.com/daviesgeek/guetzli-gui) - Matthew Davies
+
+Copyright (c) 2018 [guetzli-recursively](https://github.com/tanrax/guetzli-recursively) - Andros Fenollosa
+
+Copyright (c) 2018 [guetzi-gui](https://github.com/ivancristina/guetzli-gui) - Ivan Cristina
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
